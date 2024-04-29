@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisKlinikYS", "DisKlinikYS.csproj", "{772300EA-1E38-4ACD-A39E-9C887601D06C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772300EA-1E38-4ACD-A39E-9C887601D06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772300EA-1E38-4ACD-A39E-9C887601D06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772300EA-1E38-4ACD-A39E-9C887601D06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772300EA-1E38-4ACD-A39E-9C887601D06C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DDD89EC-4091-4C7F-87AA-9ABAB26A340E}
+	EndGlobalSection
+EndGlobal
